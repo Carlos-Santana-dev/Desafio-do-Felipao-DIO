@@ -1,4 +1,4 @@
-# 🔰 Desafio: Classificador de Nível de Herói
+# Desafio: Classificador de Nível de Herói
 
 # Solicita o nome do herói e a experiência (XP)
 nome = input("Digite o nome do herói: ")
